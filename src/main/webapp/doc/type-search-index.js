@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"exercises.ex2_bord_alexander","l":"Answer"},{"p":"exercises.ex2_bord_alexander","l":"AnswerServlet"},{"p":"exercises.ex2_bord_alexander","l":"DataServlet"},{"p":"exercises.ex2_bord_alexander","l":"Question"},{"p":"exercises.ex2_bord_alexander","l":"QuestionServlet"}];updateSearchResults();

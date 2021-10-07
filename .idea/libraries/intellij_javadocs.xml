@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellij-javadocs">
+    <CLASSES>
+      <root url="file://D:/intellij-javadocs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
